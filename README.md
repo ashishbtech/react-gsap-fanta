@@ -8,7 +8,7 @@ This project leverages **GSAP ScrollTrigger** to pin and animate a central produ
 
 ### 🎥 Preview
 
-[**🟢 Live Demo on Vercel**]()
+[**🟢 Live Demo on Vercel**](https://react-gsap-fanta.vercel.app)
 
 
 ![Preview](/public/Assets/preview-fanta.gif)
